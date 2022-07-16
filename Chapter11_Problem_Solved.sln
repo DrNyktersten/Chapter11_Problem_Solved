@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MovieProfit", "MovieProfit\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CorporateSalesData", "CorporateSalesData\CorporateSalesData.vcxproj", "{9E25D968-20D6-4E0B-B9F9-EF3FBD6C612C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Weather_Statistics", "Weather_Statistics\Weather_Statistics.vcxproj", "{C8A80527-3D23-4195-B36E-9632EBCB081B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{9E25D968-20D6-4E0B-B9F9-EF3FBD6C612C}.Release|x64.Build.0 = Release|x64
 		{9E25D968-20D6-4E0B-B9F9-EF3FBD6C612C}.Release|x86.ActiveCfg = Release|Win32
 		{9E25D968-20D6-4E0B-B9F9-EF3FBD6C612C}.Release|x86.Build.0 = Release|Win32
+		{C8A80527-3D23-4195-B36E-9632EBCB081B}.Debug|x64.ActiveCfg = Debug|x64
+		{C8A80527-3D23-4195-B36E-9632EBCB081B}.Debug|x64.Build.0 = Debug|x64
+		{C8A80527-3D23-4195-B36E-9632EBCB081B}.Debug|x86.ActiveCfg = Debug|Win32
+		{C8A80527-3D23-4195-B36E-9632EBCB081B}.Debug|x86.Build.0 = Debug|Win32
+		{C8A80527-3D23-4195-B36E-9632EBCB081B}.Release|x64.ActiveCfg = Release|x64
+		{C8A80527-3D23-4195-B36E-9632EBCB081B}.Release|x64.Build.0 = Release|x64
+		{C8A80527-3D23-4195-B36E-9632EBCB081B}.Release|x86.ActiveCfg = Release|Win32
+		{C8A80527-3D23-4195-B36E-9632EBCB081B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

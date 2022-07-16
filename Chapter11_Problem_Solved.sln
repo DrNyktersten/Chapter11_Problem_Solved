@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter11_Problem_Solved", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MovieProfit", "MovieProfit\MovieProfit.vcxproj", "{15B01A71-5CC3-424B-A650-00FF9546999C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CorporateSalesData", "CorporateSalesData\CorporateSalesData.vcxproj", "{9E25D968-20D6-4E0B-B9F9-EF3FBD6C612C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{15B01A71-5CC3-424B-A650-00FF9546999C}.Release|x64.Build.0 = Release|x64
 		{15B01A71-5CC3-424B-A650-00FF9546999C}.Release|x86.ActiveCfg = Release|Win32
 		{15B01A71-5CC3-424B-A650-00FF9546999C}.Release|x86.Build.0 = Release|Win32
+		{9E25D968-20D6-4E0B-B9F9-EF3FBD6C612C}.Debug|x64.ActiveCfg = Debug|x64
+		{9E25D968-20D6-4E0B-B9F9-EF3FBD6C612C}.Debug|x64.Build.0 = Debug|x64
+		{9E25D968-20D6-4E0B-B9F9-EF3FBD6C612C}.Debug|x86.ActiveCfg = Debug|Win32
+		{9E25D968-20D6-4E0B-B9F9-EF3FBD6C612C}.Debug|x86.Build.0 = Debug|Win32
+		{9E25D968-20D6-4E0B-B9F9-EF3FBD6C612C}.Release|x64.ActiveCfg = Release|x64
+		{9E25D968-20D6-4E0B-B9F9-EF3FBD6C612C}.Release|x64.Build.0 = Release|x64
+		{9E25D968-20D6-4E0B-B9F9-EF3FBD6C612C}.Release|x86.ActiveCfg = Release|Win32
+		{9E25D968-20D6-4E0B-B9F9-EF3FBD6C612C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
